@@ -1,0 +1,13 @@
+D:\all_sprite\zadrot_main\cpp\hhh\Ultimate RenPy Decompiler\bin\Release\Ultimate RenPy Decompiler.exe.config
+D:\all_sprite\zadrot_main\cpp\hhh\Ultimate RenPy Decompiler\bin\Release\Ultimate RenPy Decompiler.exe
+D:\all_sprite\zadrot_main\cpp\hhh\Ultimate RenPy Decompiler\bin\Release\Ultimate RenPy Decompiler.pdb
+D:\all_sprite\zadrot_main\cpp\hhh\Ultimate RenPy Decompiler\obj\Release\Ultimate RenPy Decompiler.csproj.AssemblyReference.cache
+D:\all_sprite\zadrot_main\cpp\hhh\Ultimate RenPy Decompiler\obj\Release\Ultimate_RenPy_Decompiler.About.resources
+D:\all_sprite\zadrot_main\cpp\hhh\Ultimate RenPy Decompiler\obj\Release\Ultimate_RenPy_Decompiler.Form1.resources
+D:\all_sprite\zadrot_main\cpp\hhh\Ultimate RenPy Decompiler\obj\Release\Ultimate_RenPy_Decompiler.Properties.Resources.resources
+D:\all_sprite\zadrot_main\cpp\hhh\Ultimate RenPy Decompiler\obj\Release\Ultimate_RenPy_Decompiler.RPADECOMPILER.resources
+D:\all_sprite\zadrot_main\cpp\hhh\Ultimate RenPy Decompiler\obj\Release\Ultimate_RenPy_Decompiler.SCRIPTDECOMPILER.resources
+D:\all_sprite\zadrot_main\cpp\hhh\Ultimate RenPy Decompiler\obj\Release\Ultimate RenPy Decompiler.csproj.GenerateResource.cache
+D:\all_sprite\zadrot_main\cpp\hhh\Ultimate RenPy Decompiler\obj\Release\Ultimate RenPy Decompiler.csproj.CoreCompileInputs.cache
+D:\all_sprite\zadrot_main\cpp\hhh\Ultimate RenPy Decompiler\obj\Release\Ultimate RenPy Decompiler.exe
+D:\all_sprite\zadrot_main\cpp\hhh\Ultimate RenPy Decompiler\obj\Release\Ultimate RenPy Decompiler.pdb
